@@ -1,45 +1,17 @@
 # 🏢 ChunjaeCorp Digital Learning Team
 
-## 📝 개발 동기
+## 📝 부서명
 
 ```sh
-- 예정
-- 예정
+(주)천재교육 디지털사업본부 디지털러닝팀 기술파트
 ```
 
 ## 💡 진행중인 프로젝트
 |프로젝트 명|설명|작업 현황|
 |:---:|:---:|:---:|
 |KDT_Landing|천재IT교육센터 렌딩 페이지 제작|24.02.02 ~ 작업 진행중|
-|2번 프로젝트 이름 입력해주세요|간략한 소개도 써주세요|
-|3번 프로젝트 이름 입력해주세요|간략한 소개도 써주세요|
+|KDT_LMS|천재IT교육센터 교육생 대상 러닝 서비스||24.04.12 ~ 작업 진행중
 
-<!--
-## 💻 전체 서버 구조
-
-<img width="1300" alt="전체 서버" src="https://github.com/SP0F0/.github/assets/62829894/06ba3977-6e72-429d-af49-e8a55ebdb02e">
-
-## 💻 포트폴리오 서버 구조
-
-<img width="1357" alt="포트폴리오 서버" src="https://github.com/SP0F0/.github/assets/62829894/79199e99-12db-47ef-9e81-e1a172441a5a">
-
-## 💻 인증 서버 구조
-
-<img width="1345" alt="인증 서버" src="https://github.com/SP0F0/.github/assets/62829894/c97a331d-f289-49cc-9f61-05ef57898352">
-
-## 💻 주식 서버 구조
-
-<img width="1336" alt="주식 서버" src="https://github.com/SP0F0/.github/assets/62829894/6d70d05b-d4a4-441b-8399-a33634b729da">
-
-## 💾 AWS를 활용한 배포 흐름
-
-<img width="1405" alt="배포1" src="https://github.com/SP0F0/.github/assets/62829894/bcc6714e-c801-4ab2-9500-10b123c8698b">
-
-
-## 💾 Krampoline을 활용한 배포 흐름
-
-<img width="1321" alt="배포2" src="https://github.com/SP0F0/.github/assets/62829894/a4db8007-7d60-4d5f-9266-510616268a59">
--->
 
 ## 🧑‍🦲 팀원(가나다순)
 
